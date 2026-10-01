@@ -25,3 +25,4 @@ se muestra como es el diseño y formato del video juego, desde inicio a fin, mue
 
 # fase 3 - desarrollo de código
 
+el código muestra como 
