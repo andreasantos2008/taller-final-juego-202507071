@@ -13,16 +13,26 @@ A - agacharse
 
 # fase 1 - análisis, requerimientos funcionales y no funcionales 
 
+Requerimientos Funcionales
+a) El personaje avanza de manera automática corriendo por el nivel hasta alcanzar un obstáculo.
+b) El videojuego incluye un total de 30 niveles con dificultad de preguntas fácil.
+c) Al llegar a un obstáculo, la carrera se detiene y se despliega una pregunta.
+d) Si el jugador responde correctamente, el obstáculo se supera y el personaje continúa corriendo.
 
-
-
-
-
+Requerimientos No Funcionales
+a) La interfaz del juego muestra en todo momento el indicador del inventario de la manzanita (0/1).
+b) Las preguntas y sus opciones de respuesta se presentan con tipografía clara y botones de fácil lectura.
+c) La transición entre la fase de carrera y la ventana emergente de pregunta debe tardar menos de 1 segundo.
+d) El juego emite señales visuales y sonoras diferenciadas al acertar, fallar o utilizar la manzanita.
+e) El sistema guarda automáticamente el progreso del jugador entre los 30 niveles disponibles.
 
 # fase 2 - diagrama de flujo
 
 se muestra como es el diseño y formato del video juego, desde inicio a fin, muestra como es la pantalla de inicio y sus opciones para poder moverse al siguiente nivel.
 
 # fase 3 - desarrollo de código
+en el codigo se muestra los pasos para el menu de inicio del juego de la manzana, muestra como es paso a paso para que sea posible el entrar al juego 
+
+# fase 4 - presentacion 
 
 el código muestra como 
