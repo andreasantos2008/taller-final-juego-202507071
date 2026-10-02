@@ -33,6 +33,4 @@ se muestra como es el diseño y formato del video juego, desde inicio a fin, mue
 # fase 3 - desarrollo de código
 en el codigo se muestra los pasos para el menu de inicio del juego de la manzana, muestra como es paso a paso para que sea posible el entrar al juego 
 
-# fase 4 - presentacion 
-
-el código muestra como 
+# fase 4 - presentacion  
